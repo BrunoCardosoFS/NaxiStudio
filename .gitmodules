@@ -1,0 +1,6 @@
+[submodule "NaxiStudio-Control"]
+	path = NaxiStudio-Control
+	url = https://github.com/brunocardosofs/NaxiStudio-Control
+[submodule "NaxiStudio"]
+	path = NaxiStudio
+	url = https://github.com/brunocardosofs/NaxiStudio
