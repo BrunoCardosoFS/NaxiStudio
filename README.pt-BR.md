@@ -8,9 +8,8 @@ O NaxiStudio Player foi desenvolvido para atender às diferentes necessidades da
 - **Ideal para**: Rádios que precisam de controle total sobre a mixagem e operações manuais.
 - **Recursos principais**:
   - Mixagem manual de áudio.
-  - Controle preciso sobre transições, volumes e efeitos.
   - Ideal para transmissões ao vivo e operações que exigem intervenção constante.
-- **Recomendado para**: Equipes técnicas que preferem ajustar cada detalhe da programação ou para programas ao vivo com interações em tempo real.
+- **Recomendado para**: Equipes que preferem ajustar cada detalhe da programação ou para programas ao vivo com interações em tempo real.
 
 #### NaxiStudio Player Flow
 - **Ideal para**: Rádios que buscam praticidade e automação na transmissão.
