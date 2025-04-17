@@ -1,0 +1,6 @@
+[submodule "NaxiStudioFlow"]
+	path = NaxiStudioFlow
+	url = https://github.com/BrunoCardosoFS/NaxiStudioFlow.git
+[submodule "NaxiStudioMix"]
+	path = NaxiStudioMix
+	url = https://github.com/BrunoCardosoFS/NaxiStudioMix.git
