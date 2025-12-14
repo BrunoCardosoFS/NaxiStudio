@@ -4,6 +4,6 @@
 [submodule "NaxiStudioMix"]
 	path = NaxiStudioMix
 	url = https://github.com/BrunoCardosoFS/NaxiStudioMix.git
-[submodule "NaxiStudioCreative"]
-	path = NaxiStudioCreative
-	url = https://github.com/BrunoCardosoFS/NaxiStudioCreative.git
+[submodule "NaxiStudioControl"]
+	path = NaxiStudioControl
+	url = https://github.com/BrunoCardosoFS/NaxiStudioControl.git
