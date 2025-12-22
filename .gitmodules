@@ -7,3 +7,6 @@
 [submodule "NaxiStudioControl"]
 	path = NaxiStudioControl
 	url = https://github.com/BrunoCardosoFS/NaxiStudioControl.git
+[submodule "NaxiServer"]
+	path = NaxiServer
+	url = https://github.com/BrunoCardosoFS/NaxiServer.git
